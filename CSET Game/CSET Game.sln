@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSET Game", "CSET Game\CSET Game\CSET Game.csproj", "{CD25A8E6-649A-4823-BBD8-CB4B17E0BD28}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CSET GameContent", "CSET Game\CSET GameContent\CSET GameContent.contentproj", "{D6708787-9018-4D75-9831-1CB44575E63B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD25A8E6-649A-4823-BBD8-CB4B17E0BD28}.Debug|x86.ActiveCfg = Debug|x86
+		{CD25A8E6-649A-4823-BBD8-CB4B17E0BD28}.Debug|x86.Build.0 = Debug|x86
+		{CD25A8E6-649A-4823-BBD8-CB4B17E0BD28}.Release|x86.ActiveCfg = Release|x86
+		{CD25A8E6-649A-4823-BBD8-CB4B17E0BD28}.Release|x86.Build.0 = Release|x86
+		{D6708787-9018-4D75-9831-1CB44575E63B}.Debug|x86.ActiveCfg = Debug|x86
+		{D6708787-9018-4D75-9831-1CB44575E63B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

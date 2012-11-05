@@ -1,0 +1,34 @@
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\EnemyShoot.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\Explosion.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\Hit.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PlayerShoot.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PointPackPickup.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PowerupPickup.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PowerupWeapon.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\Selection.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\backgroundColor.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\enemyShip.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\enemyUFO.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserGreen.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserGreenShot.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserRed.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserRedShot.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\life.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\meteorBig.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\meteorSmall.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\nebula.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\player.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\playerDamaged.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\playerLeft.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\playerRight.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\shield.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\speedLine.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\starBackground.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\starBig.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\starSmall.xnb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\CSET Game.exe
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\CSET Game.pdb
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\obj\x86\Debug\CSET Game.exe
+C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\obj\x86\Debug\CSET Game.pdb
