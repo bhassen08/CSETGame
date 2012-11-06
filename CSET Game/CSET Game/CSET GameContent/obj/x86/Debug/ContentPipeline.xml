@@ -7,8 +7,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\EnemyShoot.xnb</Output>
-      <Time>2012-11-02T02:23:25.1846311-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\EnemyShoot.xnb</Output>
+      <Time>2012-11-06T12:23:01.0227961-05:00</Time>
     </Item>
     <Item>
       <Source>Audio\Explosion.wav</Source>
@@ -16,8 +16,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\Explosion.xnb</Output>
-      <Time>2012-11-02T02:23:05.5465078-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\Explosion.xnb</Output>
+      <Time>2012-11-06T12:23:01.0237962-05:00</Time>
     </Item>
     <Item>
       <Source>Audio\Hit.wav</Source>
@@ -25,8 +25,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\Hit.xnb</Output>
-      <Time>2012-11-02T02:22:34.2467176-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\Hit.xnb</Output>
+      <Time>2012-11-06T12:23:01.0257963-05:00</Time>
     </Item>
     <Item>
       <Source>Audio\PlayerShoot.wav</Source>
@@ -34,8 +34,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PlayerShoot.xnb</Output>
-      <Time>2012-11-02T02:23:16.6451426-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PlayerShoot.xnb</Output>
+      <Time>2012-11-06T12:23:01.0267964-05:00</Time>
     </Item>
     <Item>
       <Source>Audio\PointPackPickup.wav</Source>
@@ -43,8 +43,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PointPackPickup.xnb</Output>
-      <Time>2012-11-02T02:30:29.1798822-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PointPackPickup.xnb</Output>
+      <Time>2012-11-06T12:23:01.0297965-05:00</Time>
     </Item>
     <Item>
       <Source>Audio\PowerupPickup.wav</Source>
@@ -52,8 +52,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PowerupPickup.xnb</Output>
-      <Time>2012-11-02T02:22:50.5636509-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PowerupPickup.xnb</Output>
+      <Time>2012-11-06T12:23:01.0307966-05:00</Time>
     </Item>
     <Item>
       <Source>Audio\PowerupWeapon.wav</Source>
@@ -61,8 +61,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PowerupWeapon.xnb</Output>
-      <Time>2012-11-02T02:25:40.2273551-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\PowerupWeapon.xnb</Output>
+      <Time>2012-11-06T12:23:01.0317967-05:00</Time>
     </Item>
     <Item>
       <Source>Audio\Selection.wav</Source>
@@ -70,8 +70,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\Selection.xnb</Output>
-      <Time>2012-11-02T02:22:12.3614658-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\Selection.xnb</Output>
+      <Time>2012-11-06T12:23:01.0337968-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\backgroundColor.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\backgroundColor.xnb</Output>
-      <Time>2012-10-08T07:49:44.3825481-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\backgroundColor.xnb</Output>
+      <Time>2012-11-06T12:23:01.0357969-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\enemyShip.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\enemyShip.xnb</Output>
-      <Time>2012-10-08T07:44:26.9643929-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\enemyShip.xnb</Output>
+      <Time>2012-11-06T12:23:01.0367969-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\enemyUFO.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\enemyUFO.xnb</Output>
-      <Time>2012-10-08T07:44:45.7124652-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\enemyUFO.xnb</Output>
+      <Time>2012-11-06T12:23:01.0387971-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\laserGreen.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserGreen.xnb</Output>
-      <Time>2012-10-08T07:45:31.3450752-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserGreen.xnb</Output>
+      <Time>2012-11-06T12:23:01.0397971-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\laserGreenShot.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserGreenShot.xnb</Output>
-      <Time>2012-10-08T07:45:23.5296282-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserGreenShot.xnb</Output>
+      <Time>2012-11-06T12:23:01.0397971-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\laserRed.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserRed.xnb</Output>
-      <Time>2012-10-08T07:45:40.4735973-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserRed.xnb</Output>
+      <Time>2012-11-06T12:23:01.0407972-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\laserRedShot.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserRedShot.xnb</Output>
-      <Time>2012-10-08T07:45:51.7222407-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\laserRedShot.xnb</Output>
+      <Time>2012-11-06T12:23:01.0407972-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\life.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\life.xnb</Output>
-      <Time>2012-10-08T07:46:26.9352548-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\life.xnb</Output>
+      <Time>2012-11-06T12:23:01.0407972-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\meteorBig.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\meteorBig.xnb</Output>
-      <Time>2012-10-08T07:46:45.2233008-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\meteorBig.xnb</Output>
+      <Time>2012-11-06T12:23:01.0417972-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\meteorSmall.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\meteorSmall.xnb</Output>
-      <Time>2012-10-08T07:46:52.8817389-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\meteorSmall.xnb</Output>
+      <Time>2012-11-06T12:23:01.0417972-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\nebula.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\nebula.xnb</Output>
-      <Time>2012-10-08T07:49:03.486209-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\nebula.xnb</Output>
+      <Time>2012-11-06T12:23:01.0427973-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\player.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\player.xnb</Output>
-      <Time>2012-10-08T07:46:01.1107777-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\player.xnb</Output>
+      <Time>2012-11-06T12:23:01.0427973-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\playerDamaged.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\playerDamaged.xnb</Output>
-      <Time>2012-10-08T07:44:37.5469981-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\playerDamaged.xnb</Output>
+      <Time>2012-11-06T12:23:01.0427973-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\playerLeft.png</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\playerLeft.xnb</Output>
-      <Time>2012-10-08T07:44:54.0859441-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\playerLeft.xnb</Output>
+      <Time>2012-11-06T12:23:01.0437973-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\playerRight.png</Source>
@@ -205,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\playerRight.xnb</Output>
-      <Time>2012-10-08T07:45:05.8416165-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\playerRight.xnb</Output>
+      <Time>2012-11-06T12:23:01.0437973-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\shield.png</Source>
@@ -214,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\shield.xnb</Output>
-      <Time>2012-10-08T07:46:13.4364827-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\shield.xnb</Output>
+      <Time>2012-11-06T12:23:01.0447974-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\speedLine.png</Source>
@@ -223,8 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\speedLine.xnb</Output>
-      <Time>2012-10-08T07:49:32.7618835-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\speedLine.xnb</Output>
+      <Time>2012-11-06T12:23:01.0447974-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\starBackground.png</Source>
@@ -232,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\starBackground.xnb</Output>
-      <Time>2012-10-08T07:51:21.9171268-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\starBackground.xnb</Output>
+      <Time>2012-11-06T12:23:01.0457975-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\starBig.png</Source>
@@ -241,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\starBig.xnb</Output>
-      <Time>2012-10-08T07:49:22.3222864-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\starBig.xnb</Output>
+      <Time>2012-11-06T12:23:01.0457975-05:00</Time>
     </Item>
     <Item>
       <Source>Images\Placeholder\starSmall.png</Source>
@@ -250,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\starSmall.xnb</Output>
-      <Time>2012-10-08T07:49:13.8898041-04:00</Time>
+      <Output>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\starSmall.xnb</Output>
+      <Time>2012-11-06T12:23:01.0457975-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -259,10 +259,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET GameContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET GameContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET GameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

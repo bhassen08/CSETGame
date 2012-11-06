@@ -1,1 +1,2 @@
 C:\Users\w00t1337\Documents\GitHub\Casual\CSET Game\CSET Game\CSET GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
