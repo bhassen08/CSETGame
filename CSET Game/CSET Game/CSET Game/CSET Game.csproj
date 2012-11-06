@@ -72,18 +72,39 @@
     <Reference Include="System.Net" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActionScene.cs" />
+    <Compile Include="AudioLibrary.cs" />
+    <Compile Include="Core\GameScene.cs" />
+    <Compile Include="Core\ImageComponent.cs" />
+    <Compile Include="Core\SimpleRumblePad.cs" />
+    <Compile Include="Core\Sprite.cs" />
+    <Compile Include="Core\TextMenuComponent.cs" />
+    <Compile Include="HelpScene.cs" />
+    <Compile Include="Meteor.cs" />
+    <Compile Include="MeteorManager.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="PlayerSprite.cs" />
+    <Compile Include="PowerSource.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Game1.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="Score.cs" />
     <Compile Include="SpriteManagement.cs" />
     <Compile Include="Sprites.cs" />
+    <Compile Include="StartScene.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\x86\Debug\CSET Game.exe" />
+    <Content Include="bin\x86\Debug\CSET Game.pdb" />
     <Content Include="Game.ico" />
     <Content Include="GameThumbnail.png">
       <XnaPlatformSpecific>true</XnaPlatformSpecific>
     </Content>
+    <Content Include="obj\x86\Debug\cachefile-{D6708787-9018-4D75-9831-1CB44575E63B}-targetpath.txt" />
+    <Content Include="obj\x86\Debug\CSET Game.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\x86\Debug\CSET Game.exe" />
+    <Content Include="obj\x86\Debug\CSET Game.pdb" />
+    <Content Include="obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CSET GameContent\CSET GameContent.contentproj">
@@ -117,6 +138,42 @@
       <ProductName>Microsoft XNA Framework Redistributable 4.0</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\x86\Debug\Content\Audio\EnemyShoot.xnb" />
+    <None Include="bin\x86\Debug\Content\Audio\Explosion.xnb" />
+    <None Include="bin\x86\Debug\Content\Audio\Hit.xnb" />
+    <None Include="bin\x86\Debug\Content\Audio\PlayerShoot.xnb" />
+    <None Include="bin\x86\Debug\Content\Audio\PointPackPickup.xnb" />
+    <None Include="bin\x86\Debug\Content\Audio\PowerupPickup.xnb" />
+    <None Include="bin\x86\Debug\Content\Audio\PowerupWeapon.xnb" />
+    <None Include="bin\x86\Debug\Content\Audio\Selection.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\backgroundColor.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\enemyShip.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\enemyUFO.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\laserGreen.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\laserGreenShot.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\laserRed.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\laserRedShot.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\life.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\meteorBig.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\meteorSmall.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\nebula.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\player.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\playerDamaged.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\playerLeft.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\playerRight.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\shield.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\speedLine.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\starBackground.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\starBig.xnb" />
+    <None Include="bin\x86\Debug\Content\Images\Placeholder\starSmall.xnb" />
+    <None Include="CSET Game.csproj.Debug.cachefile" />
+    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\x86\Debug\ResolveAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\x86\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
