@@ -66,3 +66,5 @@ C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x8
 C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Images\Placeholder\starSmall.xnb
 C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\CSET Game.exe
 C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\CSET Game.pdb
+C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\Theme.xnb
+C:\Users\w00t1337\Documents\GitHub\CSETGame\CSET Game\CSET Game\CSET Game\bin\x86\Debug\Content\Audio\Theme.wma

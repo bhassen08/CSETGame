@@ -22,7 +22,7 @@ namespace CSET_Game
 
         PlayerSprite player;
 
-        public SpriteManagement(Game game)
+        public SpriteManagement(Game1 game)
             : base(game)
         {
             // TODO: Construct any child components here
@@ -45,7 +45,7 @@ namespace CSET_Game
 
             // Load Player sprite
             player = new PlayerSprite(Game.Content.Load<Texture2D>(@"Images/Placeholder/player"),
-                new Point(0, 0), new Point(0, 0), new Point(99, 75), new Vector2(4, 4),
+                new Point(0, 0), new Point(0, 0), new Point(99, 75), new Vector2(7, 7),
                 Vector2.Zero, 5, 16);
                         
                 

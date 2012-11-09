@@ -26,3 +26,5 @@ Content\Images\Placeholder\speedLine.xnb
 Content\Images\Placeholder\starBackground.xnb
 Content\Images\Placeholder\starBig.xnb
 Content\Images\Placeholder\starSmall.xnb
+Content\Audio\Theme.xnb
+Content\Audio\Theme.wma
